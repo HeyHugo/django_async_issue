@@ -1,0 +1,4 @@
+git+https://github.com/HeyHugo/django.git@debug/http-disconnect
+uvicorn[standard]
+gunicorn
+daphne
